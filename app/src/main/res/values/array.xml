@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ratingbars_titles">
+
+        <item>Adaptability</item>
+        <item>Affection Level</item>
+        <item>Child Friendly</item>
+        <item>Dog Friendly</item>
+        <item>Grooming</item>
+        <item>Energy Level</item>
+        <item>Health Issues</item>
+        <item>Intelligence</item>
+        <item>Shedding Level</item>
+        <item>Social Needs</item>
+        <item>Stranger Friendly</item>
+
+
+    </string-array>
+
+</resources>
